@@ -50,5 +50,5 @@
         "streambuf": "cpp",
         "typeinfo": "cpp"
     },
-    "cmake.sourceDirectory": "E:/Codeing/CMake_learn/helloworld"
+    "cmake.sourceDirectory": "E:/work/code/CMake_learn"
 }
